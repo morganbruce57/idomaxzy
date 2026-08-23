@@ -1,0 +1,841 @@
+{
+  "meta": {
+    "title": "高级前端如何优雅地拒绝不合理的产品需求？",
+    "author": "堻妃鷚",
+    "time": "2026年08月24日05时36分33秒",
+    "version": "2.0"
+  },
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "itemListOrder": "https://schema.org/ItemListOrderUnordered",
+  "name": "反抗强拆致死判无罪",
+  "description": "【直播切片】小鸽子和小小白机器人一起打麻将",
+  "about": {
+    "@type": "Thing",
+    "name": "www.blog.lgmuy.cn"
+  },
+  "mainEntity": {
+    "@type": "WebPage",
+    "name": "985大学开在县城 考进大山了",
+    "description": "内容页的详细描述，可包含www.blog.lgmuy.cn的相关信息。",
+    "author": {
+      "@type": "Person",
+      "name": "胢鲣扙"
+    },
+    "datePublished": "2026年08月24日05时36分33秒",
+    "dateModified": "2026年08月24日05时36分33秒",
+    "inLanguage": "zh-CN",
+    "isPartOf": {
+      "@type": "WebSite",
+      "name": "“龙餐馆”走红谁又“破防”了",
+      "url": "http://www.blog.lgmuy.cn/Article/details/042139.sHtML"
+    }
+  },
+  "share_links": [
+    {
+      "platform": "1662年、近代概率论的奠基者帕斯卡逝世",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/385642.sHtML"
+    },
+{
+      "platform": "躲了一下，明天低开，开始加仓！-5566",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/120320.sHtML"
+    },
+{
+      "platform": "特斯拉上线豆包大模型",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/557167.sHtML"
+    },
+{
+      "platform": "台媒：台湾一富商被杀害，34岁前员工落网，作案动机曝光",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/080315.sHtML"
+    },
+{
+      "platform": "榴莲被称为水果之王是不是一个经典营销案例",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/183189.sHtML"
+    },
+{
+      "platform": "亿纬锂能 2026 年半年度归母净利润 33.01 亿元，同比增长 105.66%",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/693946.sHtML"
+    },
+{
+      "platform": "石家庄居民楼坍塌致3死",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/954529.sHtML"
+    },
+{
+      "platform": "为了直播涨粉 打造“猛男”人设，男子徒手偷走村口150斤石墩！民警依法处以行政罚款 800 元",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/358605.sHtML"
+    },
+{
+      "platform": "中国经济何以持续“向新向优向好”？",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/632606.sHtML"
+    },
+    {
+      "platform": "金山云 2026 财年半年报归母亏损 4.37 亿元，同比下降 43.4%",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/464997.sHtML"
+    },
+{
+      "platform": "爱上已婚胡军、为富豪生双胞胎？刘涛近况曝光 资源下跌 8年睡不着",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/723733.sHtML"
+    },
+{
+      "platform": "蓝箭航天通过第二次大考",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/751961.sHtML"
+    },
+{
+      "platform": "虹猫蓝兔写给90后00后的一封信",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/624653.sHtML"
+    },
+{
+      "platform": "网络上常见的热门短视频集锦 第三千三百七十五期",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/759452.sHtML"
+    },
+{
+      "platform": "应休尽休！河南带薪休假新政来了！鼓励试行“周五半天+周末+年假”短途度假模式",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/419501.sHtML"
+    },
+{
+      "platform": "陈新武当选重庆市市长",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/986964.sHtML"
+    },
+{
+      "platform": "中国气象局启动暴雨四级应急响应",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/078041.sHtML"
+    },
+{
+      "platform": "金山云：上半年营收 57.76 亿元，同比增长 33.7%",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/171687.sHtML"
+    },
+{
+      "platform": "空枪 李嘉诚儿子绑架案",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/982775.sHtML"
+    },
+    {
+      "platform": "终于知道切特为什么打不过文班了",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/283728.sHtML"
+    },
+{
+      "platform": "上任仅半年，微软 AI 部门首席营销官安德烈娅 · 马拉德被曝即将离职",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/331521.sHtML"
+    },
+{
+      "platform": "SQL Server 迁移到 KingbaseES：一次复杂 BI 查询的性能实测",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/501259.sHtML"
+    },
+{
+      "platform": "闭门、举牌、真话，这场路演有点不一样",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/897348.sHtML"
+    },
+{
+      "platform": "国家统计局公布最新数据",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/297404.sHtML"
+    },
+{
+      "platform": "这也太爽了吧，我也想要这么干",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/677607.sHtML"
+    },
+{
+      "platform": "HWG！国米3500万欧拿下琼斯，英超“三斯”齐聚梅阿查掀蓝黑风暴",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/291988.sHtML"
+    },
+{
+      "platform": "上海上半年金融数据出炉：跨境人民币业务继续保持全国第一",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/539468.sHtML"
+    },
+{
+      "platform": "这女孩可怜啊，一辈子毁了……",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/517939.sHtML"
+    },
+{
+      "platform": "全新深蓝S05上市11.59万元起，全球时尚激光智能SUV全面进阶",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/067916.sHtML"
+    },
+    {
+      "platform": "给 DeepSeek Harness 装一个任务面板：DSH Task Board 快速上手",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/987416.sHtML"
+    },
+{
+      "platform": "女导演成AI剧反派原型",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/062933.sHtML"
+    },
+{
+      "platform": "《异环》全球流水破 20 亿元：完美世界 2026 上半年由盈转亏 1.18 亿元，多款在研项目储备中",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/003101.sHtML"
+    },
+{
+      "platform": "台军试射火箭偏轨自毁",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/999870.sHtML"
+    },
+{
+      "platform": "台风沙德尔会抵达江浙沪吗",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/081377.sHtML"
+    },
+{
+      "platform": "大学生版暴走大事件",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/875535.sHtML"
+    },
+{
+      "platform": "拥有高斯的智商和直接拥有现金一个亿rmb，到底选哪个才是好的？",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/947715.sHtML"
+    },
+{
+      "platform": "全网寻找“李春”：我们的淘宝地址，为何被一个神秘人“接管”了？",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/629924.sHtML"
+    },
+{
+      "platform": "bilibili视频下载器，可下4K、8K、HDR、杜比音频等内容（2026.08.14更新）",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/514532.sHtML"
+    },
+{
+      "platform": "4岁自闭症男童走失被找到 家中摆宴致谢宾客坐满350桌",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/817501.sHtML"
+    },
+    {
+      "platform": "升学宴墙体倒塌致5死17伤，伤者家属：孩子一只脚已截肢，还在ICU",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/993601.sHtML"
+    },
+{
+      "platform": "一审判决被推翻！禾赛科技告赢美国国防部",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/606619.sHtML"
+    },
+{
+      "platform": "夯爆了！！ 有这么好吃的猕猴桃，你怎么不早点告诉我！！！",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/607799.sHtML"
+    },
+{
+      "platform": "可自由切割合并的PDF尺寸调整打印工具",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/879701.sHtML"
+    },
+{
+      "platform": "具身智能9家“大厂派系”融资PK，最强“厂牌”不是字节、百度，也不是大疆",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/313989.sHtML"
+    },
+{
+      "platform": "瞬时回放 v1.0.0｜错过精彩瞬间？一键保存「刚刚发生的画面」",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/161212.sHtML"
+    },
+{
+      "platform": "结婚8年发现三娃均非亲生 男方已将孩子全部送还女方",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/790796.sHtML"
+    },
+{
+      "platform": "43.89万人次再创新高！第 23 届 ChinaJoy 圆满落幕",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/072095.sHtML"
+    },
+{
+      "platform": "如何看待山东聊城「父亲当街脚踹女儿，路人制止反被定罪」一案？",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/849717.sHtML"
+    },
+{
+      "platform": "封总，太太想跟你离婚很久了",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/431940.sHtML"
+    },
+    {
+      "platform": "国家发改委、国家能源局印发《石油天然气发展“十五五”规划》，2030年国内油气供应量目标4.4亿吨油当量",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/186971.sHtML"
+    },
+{
+      "platform": "DeepSeek Harness 公测，对标 Claude Cowork ；长鑫科技市值超越腾讯；OpenAI 年化营收有望翻番达 400 亿美元",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/533089.sHtML"
+    },
+{
+      "platform": "教师招聘笔试前13名落选、后5名进体检名单？佛山通报",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/936212.sHtML"
+    },
+{
+      "platform": "程莉莎沉浸在郭晓东舞台里无法自拔",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/455722.sHtML"
+    },
+{
+      "platform": "迪丽热巴陈飞宇恋情传闻时间线",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/387982.sHtML"
+    },
+{
+      "platform": "泽连斯基遭遇大麻烦",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/029326.sHtML"
+    },
+{
+      "platform": "第18号台风沙德尔生成",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/857444.sHtML"
+    },
+{
+      "platform": "2026 七夕档总票房突破 2.71 亿，《欢迎来龙餐馆》成档期冠军",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/353986.sHtML"
+    },
+{
+      "platform": "金莎再唱《星月神话》",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/359669.sHtML"
+    },
+{
+      "platform": "人民日报评杭州"酒局事件"：不仅道德败坏 更违法违规",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/113757.sHtML"
+    },
+    {
+      "platform": "高德地图车机版 V9.5.0正式版(含最新离线数据26年8月12日)",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/814846.sHtML"
+    },
+{
+      "platform": "14年、罗马帝国开国皇帝奥古斯都逝世",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/722129.sHtML"
+    },
+{
+      "platform": "华为新款平板 AST 系列通过星闪联盟测试，消息称部分型号支持星闪音频",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/297518.sHtML"
+    },
+{
+      "platform": "不同职业的老叟戏顽童",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/557071.sHtML"
+    },
+{
+      "platform": "旅游失败：暑期旺季“打卡式旅游”，真的还不如在家看纪录片",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/278088.sHtML"
+    },
+{
+      "platform": "关于对应用DNA科学公司等6家美国实体采取反制措施的决定",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/115435.sHtML"
+    },
+{
+      "platform": "当表情包有了战力图",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/421356.sHtML"
+    },
+{
+      "platform": "中国“预制房”是怎样爆单的？（产经视野）",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/850507.sHtML"
+    },
+{
+      "platform": "“男孩女孩我都喜欢”，但事实上，新生男孩越来越多",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/788121.sHtML"
+    },
+{
+      "platform": "欧洲现在没有一个共产主义国家，马克思如果看到这一幕、会不会万念俱灰",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/247089.sHtML"
+    },
+    {
+      "platform": "列车上被陌生男子用手戳胸",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/632838.sHtML"
+    },
+{
+      "platform": "清华今年录取4000余名学生",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/693937.sHtML"
+    },
+{
+      "platform": "从「拍得到」到「拍得成」：大疆如何重塑全景影像天花板",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/881317.sHtML"
+    },
+{
+      "platform": "升学宴墙体倒塌事故亲历者：左边右边都遇难 来不及喊",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/326000.sHtML"
+    },
+{
+      "platform": "21家百亿私募，现身31股前十大",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/230204.sHtML"
+    },
+{
+      "platform": "伊朗称未与美国进行直接对话",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/182209.sHtML"
+    },
+{
+      "platform": "小螺号｜当二手车迎来补贴扶持，真正的考验才刚开始",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/603273.sHtML"
+    },
+{
+      "platform": "司机开智驾玩手机冲进施工区",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/935044.sHtML"
+    },
+{
+      "platform": "女子突然“多”出个老公",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/138413.sHtML"
+    },
+{
+      "platform": "今年上市的新车销量哪家强",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/246385.sHtML"
+    },
+    {
+      "platform": "把我朋友的话分享给所有迷茫焦虑痛苦的女性",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/880085.sHtML"
+    },
+{
+      "platform": "HarmonyOS 应用 · 校园宿舍拼单订单页深度解析：状态机驱动的列表与时间线设计",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/404291.sHtML"
+    },
+{
+      "platform": "秋意来袭开启野餐模式",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/567959.sHtML"
+    },
+{
+      "platform": "小猫一脚干碎主人七八千元玉镯",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/995409.sHtML"
+    },
+{
+      "platform": "金山软件 2026 财年上半年归母净利润 16.39 亿元，同比增长 101%",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/076333.sHtML"
+    },
+{
+      "platform": "《师兄太稳健》今日开播",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/308150.sHtML"
+    },
+{
+      "platform": "复刻龙餐馆徐福烩饭",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/939446.sHtML"
+    },
+{
+      "platform": "一点一滴刺痛我的心",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/223189.sHtML"
+    },
+{
+      "platform": "广西一村庄为11名准大学生办升学礼",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/489404.sHtML"
+    },
+{
+      "platform": "王力宏：演出前一晚机器人出现 Bug，宇树团队通宵写代码解决",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/217115.sHtML"
+    },
+    {
+      "platform": "星铁知更鸟晴歌综合测评",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/625887.sHtML"
+    },
+{
+      "platform": "拍张写真祝老己七夕快乐",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/614011.sHtML"
+    },
+{
+      "platform": "中学教师招聘笔试前13名被淘汰后5名进体检 官方通报",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/042831.sHtML"
+    },
+{
+      "platform": "GPT新模型在OpenAI内网自建留言板！三个月聊了几十万条，一直没人发现",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/156129.sHtML"
+    },
+{
+      "platform": "【计算机网络 | 数据链路层3：MAC 地址是什么？它和 IP 地址有什么区别？】",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/760779.sHtML"
+    },
+{
+      "platform": "宇树科技王兴兴回应大学毕业后仅 2 个月就从大疆离职：热爱机器人 + 产业化机会出现",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/301954.sHtML"
+    },
+{
+      "platform": "两部门再拨6000万元支持河南防汛抢险救灾；国家防总、应急部增调物资支持新疆抗旱",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/039686.sHtML"
+    },
+{
+      "platform": "葛卫东朋友圈“喊话”坚定看多AI：我是相信没结束的",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/387811.sHtML"
+    },
+{
+      "platform": "黑鲸鱼 DeepSeek Harness，从「赛博乐高」变成 Agent Store",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/600232.sHtML"
+    },
+{
+      "platform": "SQL Server数据迁移到金仓数据库复盘：从怕性能翻车，到TPS提升60%",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/561596.sHtML"
+    },
+    {
+      "platform": "古巨基54岁生日全家合照曝光，58岁妻子状态年轻，两个儿子像妈妈",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/841403.sHtML"
+    },
+{
+      "platform": "把发布会搬进年轻人的生活里！全球精品轿车零跑A05正式上市！",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/398735.sHtML"
+    },
+{
+      "platform": "人形机器人运动会，比什么",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/997818.sHtML"
+    },
+{
+      "platform": "一批厨房纸巾被召回",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/535469.sHtML"
+    },
+{
+      "platform": "180多头白唇鹿横渡雅砻江",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/024880.sHtML"
+    },
+{
+      "platform": "旺旺官宣“听劝版”新品将上线",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/217414.sHtML"
+    },
+{
+      "platform": "丁程鑫曾长期营养不良",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/593065.sHtML"
+    },
+{
+      "platform": "俄乌互换103名被俘人员",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/154703.sHtML"
+    },
+{
+      "platform": "榜一大哥打赏千万后要求陪睡",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/447794.sHtML"
+    },
+{
+      "platform": "【高等几何 线性代数】正交矩阵、正交变换、齐次矩阵",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/507652.sHtML"
+    },
+    {
+      "platform": "瑞幸七夕联名引争议",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/215758.sHtML"
+    },
+{
+      "platform": "1981年韩先楚回乡探亲，与乡亲们交谈后，拿起电话：传我的命令",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/546730.sHtML"
+    },
+{
+      "platform": "尼罗河都流经沙漠了，为什么没有水土流失？黄河却这么严重？",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/906320.sHtML"
+    },
+{
+      "platform": "宇树科技上市首日收涨 460%，盘中一度暴涨 629%，市值突破 4400 亿，如何评价其市场表现？",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/401697.sHtML"
+    },
+{
+      "platform": "HarmonyOS 圆角渲染优化实战：从「clip陷阱」到「borderRadius原生加速」的GPU调优方案",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/140873.sHtML"
+    },
+{
+      "platform": "穆里尼奥：祝罗德里一切顺利，当然，也不要顺利过头了",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/483261.sHtML"
+    },
+{
+      "platform": "哔哩哔哩国际版 Android 应用程序全新上线",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/792724.sHtML"
+    },
+{
+      "platform": "【HarmonyOS 7 悬浮页签深度实战】02 从普通底栏到第一个悬浮页签",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/286591.sHtML"
+    },
+{
+      "platform": "联想携手TCL华星亮相，牵头共建电竞显示体验生态计划",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/439843.sHtML"
+    },
+{
+      "platform": "美伊谅解备忘录谈判窗口到期陷僵局，特朗普称不与伊朗会谈，伊朗坚持霍尔木兹海峡开放须先解除制裁",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/337338.sHtML"
+    },
+    {
+      "platform": "177/62kg 高个子苹果型大骨架淡人的夏季穿搭（佛系更新ing",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/872113.sHtML"
+    },
+{
+      "platform": "老叟戏顽童之模仿棋",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/854805.sHtML"
+    },
+{
+      "platform": "大家会记住对象那些无心说出来的小事吗？JR们进来聊聊",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/371970.sHtML"
+    },
+{
+      "platform": "特斯拉确认不会恢复FSD用户自定义最高速度功能，引发车主不满",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/071944.sHtML"
+    },
+{
+      "platform": "孩子滔滔不绝跟你讲游戏里的细节，你会怎么反应？",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/213294.sHtML"
+    },
+{
+      "platform": "这款厨房纸立即停用",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/596153.sHtML"
+    },
+{
+      "platform": "河道鱼群聚集 有人抓几百斤",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/876749.sHtML"
+    },
+{
+      "platform": "女子买猫窝到货后爬出一只猫",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/467644.sHtML"
+    },
+{
+      "platform": "玉雕江湖里的“大师生意”",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/105841.sHtML"
+    },
+{
+      "platform": "张恒远因黑色素瘤病逝",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/246470.sHtML"
+    },
+    {
+      "platform": "Flutter 3.47 与 Dart 3.13：你必须了解的迁移指南",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/890032.sHtML"
+    },
+{
+      "platform": "宇树是人形机器人第一名吗",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/289578.sHtML"
+    },
+{
+      "platform": "含金量拉满！智界 V9 七月单月交付突破 1 万台，打破高端MPV 市场格局",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/753558.sHtML"
+    },
+{
+      "platform": "被 AI 碾压 30 年后，人们重新爱上了下棋",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/640029.sHtML"
+    },
+{
+      "platform": "买猫窝到货爬出小猫",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/414106.sHtML"
+    },
+{
+      "platform": "杭州一地铁站广告被吐槽“像朝乘客竖中指”，工作人员回应：广告在上刊前都有报备，会审核排查相关情况",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/373570.sHtML"
+    },
+{
+      "platform": "孟子义没有给cp让路的义务",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/685920.sHtML"
+    },
+{
+      "platform": "最强助眠运动！游泳、撸铁都不如它",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/487371.sHtML"
+    },
+{
+      "platform": "京东 WRC 2026 发布机器人战略：到 2028 年投入百亿级资源，助力 100 个品牌销售额破 10 亿元",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/492882.sHtML"
+    },
+{
+      "platform": "C盘清理工具 - C盘清道夫",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/537789.sHtML"
+    },
+    {
+      "platform": "迷你世界致00后的一封信",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/521989.sHtML"
+    },
+{
+      "platform": "守岸人第57次取消发送～?",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/876223.sHtML"
+    },
+{
+      "platform": "杭州男子下班路上“多看一眼”，感觉事情必有蹊跷……3人落网",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/841119.sHtML"
+    },
+{
+      "platform": "名嘴：孙颖莎王曼昱可能在这个时间点退役！王楚钦或效仿马龙战至37岁",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/483865.sHtML"
+    },
+{
+      "platform": "DeepSeek Harness 开源，下一代 Agent 基础设施长什么样？",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/902944.sHtML"
+    },
+{
+      "platform": "美股三大指数集体高开 Moderna涨超83%",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/607890.sHtML"
+    },
+{
+      "platform": "龙餐馆演员讲述亲历的伊拉克战争",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/842047.sHtML"
+    },
+{
+      "platform": "CMS_Setup(3.0.2.11)电脑端添加各个品牌监控",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/063319.sHtML"
+    },
+{
+      "platform": "为什么会有人认为苏联是邪恶的？苏联帮助我们156项工业基础",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/629480.sHtML"
+    },
+{
+      "platform": "生产 CI/CD 可以完全交给 AI Agent 吗？我们用 30 天验证了一次",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/912486.sHtML"
+    },
+    {
+      "platform": "小鹏G9L双工况场景极限 续航挑战！城区达成率：122.5%/高速达成率：85.3%",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/210295.sHtML"
+    },
+{
+      "platform": "赵勇能把中国女排带多远（三）",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/269644.sHtML"
+    },
+{
+      "platform": "Here we go！罗马诺&DO：阿森纳将签孔萨，基础转会费5000万镑",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/200916.sHtML"
+    },
+{
+      "platform": "“如果是真人剧 十几万开机都别想”",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/592695.sHtML"
+    },
+{
+      "platform": "贵金属市场杀出一匹黑马，铱价暴涨远超黄金",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/728290.sHtML"
+    },
+{
+      "platform": "激发下沉市场活力 这几点值得期待",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/376498.sHtML"
+    },
+{
+      "platform": "千名群众手持鲜花送别39岁儿科医生",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/436044.sHtML"
+    },
+{
+      "platform": "读懂微信 AI 底层逻辑：普通人、商家掘金完整手册",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/832966.sHtML"
+    },
+{
+      "platform": "罗马诺：曼联6500万镑报价巴莱巴，交易接近完成",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/715312.sHtML"
+    },
+{
+      "platform": "江苏“隐形高温”持续，体感闷热，警惕分散性雷阵雨突袭",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/293769.sHtML"
+    },
+    {
+      "platform": "宇树科技上市首日收涨 460%：开盘一度暴涨 629% 市值突破 4400 亿，中一签浮盈近 35 万元",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/615709.sHtML"
+    },
+{
+      "platform": "8月19日下午国乒最新消息：2好1坏消息，王曼昱，陈幸同，王艺迪",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/860402.sHtML"
+    },
+{
+      "platform": "暑期爆火的运动相机：买就吃灰，租才真香",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/154944.sHtML"
+    },
+{
+      "platform": "白衣男子疯狂挥拳挑衅，却被黑衣男子单手按倒击打",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/000684.sHtML"
+    },
+{
+      "platform": "手写模拟器-文本/docx 一键变逼真手写图片，告别手抄(2026.08.12更新）",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/467954.sHtML"
+    },
+{
+      "platform": "李钧，辞去陕西省副省长职务",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/069266.sHtML"
+    },
+{
+      "platform": "女生墨尔本街头翻唱遇袁娅维加入",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/711341.sHtML"
+    },
+{
+      "platform": "人形机器人精准接水",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/573613.sHtML"
+    },
+{
+      "platform": "“王的猜想”密码：累了就休息，不累就学一些",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/991543.sHtML"
+    },
+{
+      "platform": "不理解林肯号上的士兵为啥后勤稍微差一点就无法忍受了，不就是水果、日用品短缺吗？",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/581818.sHtML"
+    },
+    {
+      "platform": "当地回应升学宴事故致5人死亡",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/706947.sHtML"
+    },
+{
+      "platform": "DeepSeek Harness 插件：HTML 实时可视化编辑",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/193176.sHtML"
+    },
+{
+      "platform": "一边练逃跑一边练斩首，收台信号愈发清晰，统一进程正在加速",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/838113.sHtML"
+    },
+{
+      "platform": "暑假提前刷题超前学习，中国教育报：别让“预制”消耗孩子鲜活生命力",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/099316.sHtML"
+    },
+{
+      "platform": "石家庄一居民楼坍塌住户发声",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/390733.sHtML"
+    },
+{
+      "platform": "湾区超美风景线，一起感受至美南沙",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/578764.sHtML"
+    },
+{
+      "platform": "纪念奥特曼 60 周年：全新特别短片《赛罗奥特曼 宇宙跃升》中字版上线，坂本浩一执导",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/744980.sHtML"
+    },
+{
+      "platform": "岚图发布“虎踞”智能底盘，城市SUV能否讲好全地形故事",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/516827.sHtML"
+    },
+{
+      "platform": "这骄傲又丑萌的小鸡",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/486909.sHtML"
+    },
+{
+      "platform": "我一路问 WorkBuddy，用腾讯云 OCR Skills 在几分钟内完成了投标审查",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/277469.sHtML"
+    },
+    {
+      "platform": "七夕整点三角洲专属浪漫",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/855670.sHtML"
+    },
+{
+      "platform": "日本福岛第22轮核污染水排海结束，本轮排放约7888吨；八国外长谴责以色列拒接加沙和平计划",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/665365.sHtML"
+    },
+{
+      "platform": "中国气象局：8月西南地区东部等地发生区域性极端高温事件概率较大",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/635157.sHtML"
+    },
+{
+      "platform": "孩子想要地铁，给不了啊",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/960603.sHtML"
+    },
+{
+      "platform": "升学宴女儿墙垮塌村民发声",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/263265.sHtML"
+    },
+{
+      "platform": "山姆苹果干一包就是半个苹果",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/764562.sHtML"
+    },
+{
+      "platform": "《庆余年》演员在山西一景区当NPC，身高2.16米，“我需要稳定收入养家，如今AI短剧普及，很多演员长期无戏可拍……”",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/865076.sHtML"
+    },
+{
+      "platform": "河南暴雨农户蹚没腰积水抢收花生",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/025718.sHtML"
+    },
+{
+      "platform": "媒体：董明珠办技校学费可以再低点",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/627744.sHtML"
+    },
+{
+      "platform": "栗子前端技术周刊第 142 期 - DeepSeek Harness、pnpm 12 RC、crypto?js...",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/578690.sHtML"
+    },
+    {
+      "platform": "定性了！中国打破几十年惯例，正式对靖国神社改了称呼，还原真相",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/329981.sHtML"
+    },
+{
+      "platform": "翻旧案！韩国足协不当招待传闻发酵，当年赴韩足协官员已成阶下囚",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/857833.sHtML"
+    },
+{
+      "platform": "舞蹈区集体cos洛天依跳舞",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/475305.sHtML"
+    },
+{
+      "platform": "银行“反内卷”，建行一家分行火了：员工午休1.5小时，暂停全部人工柜面服务！业内人士：过去几十年大家不午休，是因为谁都不敢第一个休",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/804890.sHtML"
+    },
+{
+      "platform": "美媒评新赛季30队强弱变化！76人升级明显，火箭湖人勇士均被看衰",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/480812.sHtML"
+    },
+{
+      "platform": "分享我舒缓压力的方法：写感恩日记/成功日记！希望你也可以因为一点小事就幸福呀！",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/696001.sHtML"
+    },
+{
+      "platform": "同台错位，王兴兴与马斯克殊途不同归",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/162202.sHtML"
+    },
+{
+      "platform": "该配合你演出的我视而不见",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/145700.sHtML"
+    },
+{
+      "platform": "对比与生成：抖音SOTA多模态表征模型DME",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/464317.sHtML"
+    },
+{
+      "platform": "关于鸿蒙手机的日常体验，网上那些“劝退帖”到底还站不站得住脚？",
+      "share_url": "http://www.blog.lgmuy.cn/Article/details/041857.sHtML"
+    }
+]
+}
+<h2>行业趋势点评</h2><br>
+https://github.com/gonzaleszachary863/srerpbb/blob/main/202608244Tvps.json</br>https://github.com/diazedward8191/tsabn/blob/main/20260824zrGO1.json</br>https://github.com/huntwilliam07/orpdfxx/blob/main/20260824mwyxM.json</br>https://github.com/morganbruce57/idomaxzy/blob/main/20260824wy95G.json</br>https://github.com/leonardandrea101/mgpfnvlx/blob/main/20260824mXWuQ.json</br>
+<hr></hr><hr></hr><br>
+<h2>**AI Builders Digest* | 每日06:00自动播报 | 数据来源：</h2><br>
+https://github.com/gonzaleszachary863/srerpbb/blob/main/20260824rJoxz.json</br>https://github.com/richardspamela2/fwwnqr/blob/main/20260824CSmoE.json</br>https://github.com/parkeramy72/opedzy/blob/main/20260824An37E.json</br>https://github.com/millercassandra6929/dmgdaus/blob/main/20260824sLbvQ.json</br>https://github.com/huynhjoshua376/umaqkn/blob/main/20260824recng.json</br>
+<hr></hr><br>
+<p>*报告生成时间：2026年08月24日05时36分33秒*</p>
+<br>
+<p>*数据来源：新浪财经、公开媒体报道*</p>
